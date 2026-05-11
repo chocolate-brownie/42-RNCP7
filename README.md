@@ -8,8 +8,7 @@ This repository will organize my RNCP7-level projects as an ongoing portfolio. E
 42-RNCP7/
   README.md
   .gitmodules
-  projects/
-    project-name/
+  project-name/
 ```
 
 ## Working With Submodules
@@ -28,4 +27,4 @@ git submodule update --init --recursive
 
 ## Project Index
 
-- [RNCP7 Dashboard](projects/rncp7-dashboard/) - React dashboard for tracking RNCP7 portfolio projects, progress, and roadmap views.
+- [RNCP7 Dashboard](rncp7-dashboard/) - React dashboard for tracking RNCP7 portfolio projects, progress, and roadmap views.
