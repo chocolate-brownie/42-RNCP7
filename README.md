@@ -27,4 +27,5 @@ git submodule update --init --recursive
 
 ## Project Index
 
+- [Libasm](Libasm/) - The aim of this project is to become familiar with assembly language.
 - [RNCP7 Dashboard](rncp7-dashboard/) - React dashboard for tracking RNCP7 portfolio projects, progress, and roadmap views.

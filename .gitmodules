@@ -1,3 +1,6 @@
 [submodule "rncp7-dashboard"]
 	path = rncp7-dashboard
 	url = git@github.com:chocolate-brownie/rncp7-dashboard.git
+[submodule "Libasm"]
+	path = Libasm
+	url = git@github.com:chocolate-brownie/Libasm.git
