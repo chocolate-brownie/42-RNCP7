@@ -1,0 +1,3 @@
+[submodule "projects/rncp7-dashboard"]
+	path = projects/rncp7-dashboard
+	url = git@github.com:chocolate-brownie/rncp7-dashboard.git

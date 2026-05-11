@@ -28,4 +28,4 @@ git submodule update --init --recursive
 
 ## Project Index
 
-Projects will be added here as they are created.
+- [RNCP7 Dashboard](projects/rncp7-dashboard/) - React dashboard for tracking RNCP7 portfolio projects, progress, and roadmap views.
